@@ -16,10 +16,10 @@
 
 Řízení (ovládání) pomocí senzorů
 
-a)	Vysvětlete, co to jsou čidla a senzory
-b)	A jak se dělí podle různých hledisek
-c)	Vysvětlete základní parametry na předložených senzorech
-d)	A uveďte příklady řízení pomocí senzorů
+a. Vysvětlete, co to jsou čidla a senzory
+b. A jak se dělí podle různých hledisek
+c. Vysvětlete základní parametry na předložených senzorech
+d. A uveďte příklady řízení pomocí senzorů
 
 ## Úlohy
 
@@ -40,14 +40,14 @@ d)	A uveďte příklady řízení pomocí senzorů
 
 ### 2. Ověření funkčnosti senzorů
 
-1)	Vymyslete nebo vyhledejte metody/postupy, jak ověřit funkčnost a základní parametry senzorů
-2)	Nejprve ověřte a zdokumentujte funkčnost, nefunkční vyřaďte 
-3)	U funkčních senzorů ověřte, zda měří danou fyzikální veličinu a to v toleranci udané výrobcem
-4)	Pokud senzory nefungují, nebo neměří fyzikální veličinu v deklarované toleranci, zjistěte možné příčiny
-5)	Z naměřených hodnot sestavte tabulku a graf (inspirujte se v technické dokumentaci výrobce)
+1.	Vymyslete nebo vyhledejte metody/postupy, jak ověřit funkčnost a základní parametry senzorů
+2.	Nejprve ověřte a zdokumentujte funkčnost, nefunkční vyřaďte 
+3.	U funkčních senzorů ověřte, zda měří danou fyzikální veličinu a to v toleranci udané výrobcem
+4.	Pokud senzory nefungují, nebo neměří fyzikální veličinu v deklarované toleranci, zjistěte možné příčiny
+5.	Z naměřených hodnot sestavte tabulku a graf (inspirujte se v technické dokumentaci výrobce)
 
 ### 3. Zapojení vybraných senzorů k PLC
 
-1)	Z vyhledaných informací o senzorech navrhněte připojení senzorů k PLC
-2)	Zapojení ověřte pomocí dostupných diagnostických prostředků
-3)	Napište jednoduchý program (včetně komentářů), na kterém bude demonstrována funkčnost některého ze senzorů, a vše řádně zdokumentujte (popis, fotografie, video,…)
+1.	Z vyhledaných informací o senzorech navrhněte připojení senzorů k PLC
+2.	Zapojení ověřte pomocí dostupných diagnostických prostředků
+3.	Napište jednoduchý program (včetně komentářů), na kterém bude demonstrována funkčnost některého ze senzorů, a vše řádně zdokumentujte (popis, fotografie, video,…)
