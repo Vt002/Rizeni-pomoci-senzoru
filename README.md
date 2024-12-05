@@ -16,10 +16,10 @@
 
 Řízení (ovládání) pomocí senzorů
 
-a. Vysvětlete, co to jsou čidla a senzory
-b. A jak se dělí podle různých hledisek
-c. Vysvětlete základní parametry na předložených senzorech
-d. A uveďte příklady řízení pomocí senzorů
+1. Vysvětlete, co to jsou čidla a senzory
+2. A jak se dělí podle různých hledisek
+3. Vysvětlete základní parametry na předložených senzorech
+4. A uveďte příklady řízení pomocí senzorů
 
 ## Úlohy
 
